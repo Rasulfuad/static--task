@@ -1,0 +1,16 @@
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\bin\Debug\net5.0\Examples.exe
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\bin\Debug\net5.0\Examples.deps.json
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\bin\Debug\net5.0\Examples.runtimeconfig.json
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\bin\Debug\net5.0\Examples.runtimeconfig.dev.json
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\bin\Debug\net5.0\Examples.dll
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\bin\Debug\net5.0\Examples.pdb
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\obj\Debug\net5.0\Examples.csproj.AssemblyReference.cache
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\obj\Debug\net5.0\Examples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\obj\Debug\net5.0\Examples.AssemblyInfoInputs.cache
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\obj\Debug\net5.0\Examples.AssemblyInfo.cs
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\obj\Debug\net5.0\Examples.csproj.CoreCompileInputs.cache
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\obj\Debug\net5.0\Examples.dll
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\obj\Debug\net5.0\refint\Examples.dll
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\obj\Debug\net5.0\Examples.pdb
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\obj\Debug\net5.0\Examples.genruntimeconfig.cache
+C:\Users\fuad\Desktop\Examples-in-class\Examples\Examples\obj\Debug\net5.0\ref\Examples.dll

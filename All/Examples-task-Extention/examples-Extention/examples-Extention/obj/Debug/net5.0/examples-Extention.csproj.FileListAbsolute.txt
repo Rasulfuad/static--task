@@ -1,0 +1,16 @@
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\obj\Debug\net5.0\examples-Extention.csproj.AssemblyReference.cache
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\obj\Debug\net5.0\examples-Extention.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\obj\Debug\net5.0\examples-Extention.AssemblyInfoInputs.cache
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\obj\Debug\net5.0\examples-Extention.AssemblyInfo.cs
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\obj\Debug\net5.0\examples-Extention.csproj.CoreCompileInputs.cache
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\bin\Debug\net5.0\examples-Extention.exe
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\bin\Debug\net5.0\examples-Extention.deps.json
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\bin\Debug\net5.0\examples-Extention.runtimeconfig.json
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\bin\Debug\net5.0\examples-Extention.runtimeconfig.dev.json
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\bin\Debug\net5.0\examples-Extention.dll
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\bin\Debug\net5.0\examples-Extention.pdb
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\obj\Debug\net5.0\examples-Extention.dll
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\obj\Debug\net5.0\refint\examples-Extention.dll
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\obj\Debug\net5.0\examples-Extention.pdb
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\obj\Debug\net5.0\examples-Extention.genruntimeconfig.cache
+C:\Users\fuad\Desktop\Examples-task-Extention\examples-Extention\examples-Extention\obj\Debug\net5.0\ref\examples-Extention.dll
